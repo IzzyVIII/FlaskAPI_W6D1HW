@@ -1,0 +1,13 @@
+/* Shop Page CSS */
+
+
+.shop-header {
+    background-image: url("https://s26162.pcdn.co/wp-content/uploads/sites/2/2022/05/Book.jpg");
+    background-size: cover;
+    height: 700px;
+    color: rgb(219, 211, 166); 
+}
+
+.shop-stats {
+    color: rgb(219, 211, 166); 
+}
