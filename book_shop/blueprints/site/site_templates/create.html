@@ -1,0 +1,16 @@
+# ADDED Day 3
+
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="container d-flex justify-content-center align-items-center">
+    <div class="row mt-5 mb-5 p-5 shadow rounded border border-primary w-75">
+        <div class="col">
+            <h3>Add a New Book or Book Product for your Store!</h3>
+            {% include 'productform.html' %}
+        </div>
+    </div>
+</div>
+
+{% endblock content %}
